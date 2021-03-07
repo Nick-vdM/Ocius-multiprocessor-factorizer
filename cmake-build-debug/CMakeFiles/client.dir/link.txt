@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -pthread -g  -Wl,--enable-auto-import CMakeFiles/client.dir/client.cpp.o  -o client.exe -Wl,--out-implib,libclient.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
